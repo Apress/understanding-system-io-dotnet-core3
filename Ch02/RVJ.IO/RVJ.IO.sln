@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RVJ.IO", "RVJ.IO\RVJ.IO.csproj", "{BABB25B5-BC4F-4724-9594-0A94E1F404F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BABB25B5-BC4F-4724-9594-0A94E1F404F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BABB25B5-BC4F-4724-9594-0A94E1F404F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BABB25B5-BC4F-4724-9594-0A94E1F404F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BABB25B5-BC4F-4724-9594-0A94E1F404F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9314CC1A-F7C2-44EE-BEB1-F7D50D4A38D1}
+	EndGlobalSection
+EndGlobal
